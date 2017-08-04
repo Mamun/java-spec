@@ -1,5 +1,4 @@
-# java-spec
-testing java application with clojure spec
+# Clojure spec for Java Property Based Testing
 
 ## Java data model and service
 
